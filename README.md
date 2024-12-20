@@ -21,5 +21,3 @@ Este projeto é uma página de apresentação com uma ilustração destacando co
 💡 Dúvidas ou sugestões? Sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
 #DevClub #HTML5 #CSS3 #WebDevelopment #ResponsiveDesign
-
-Envie o próximo ou me diga se deseja personalizar ainda mais!
