@@ -6,7 +6,7 @@ Shopping via Mobile Illustration
 Este projeto é uma página de apresentação com uma ilustração destacando compras via dispositivos móveis, com foco em layout responsivo e um design moderno.
 
 🔗 Confira o preview do projeto online:
-👉 [Shopping via Mobile Illustration](https://josue-souza-morais.github.io/Shopping-via-mobile-illustration/)
+👉 [Shopping via Mobile Illustration](https://dev-josue-morais.github.io/Shopping-via-mobile-illustration/)
 
 🛠️ Tecnologias Utilizadas
 	•	HTML5: Estrutura do projeto.
